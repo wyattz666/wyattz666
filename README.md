@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wyatt&style=flat-square&color=blue" alt="visitors" />
-  <img src="https://img.shields.io/badge/university-hust-red?style=flat-square" alt="university" />
+  <img src="https://komarev.com/ghpvc/?username=wyattz666&style=flat-square&color=blue" alt="visitors" />
+  <img src="https://img.shields.io/badge/university-ou-red?style=flat-square" alt="university" />
   <img src="https://img.shields.io/badge/hobby-japanese%20culture-green?style=flat-square" alt="hobby" />
-  <a href="https://github.com/wyatt">
-    <img src="https://img.shields.io/github/followers/wyatt?label=Follow&style=social" alt="Follow" />
+  <a href="https://github.com/wyattz666">
+    <img src="https://img.shields.io/github/followers/wyattz666?label=Follow&style=social" alt="Follow" />
   </a>
-  <a href="https://github.com/wyatt">
-    <img src="https://img.shields.io/github/stars/wyatt?style=social" alt="Stars" />
+  <a href="https://github.com/wyattz666">
+    <img src="https://img.shields.io/github/stars/wyattz666?style=social" alt="Stars" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/wyatt">
-    <img src="https://github-readme-stats.vercel.app/api?username=wyatt&show_icons=true&theme=radical" alt="wyatt's GitHub stats" />
+  <a href="https://github.com/wyattz666">
+    <img src="https://github-readme-stats.vercel.app/api?username=wyattz666&show_icons=true&theme=radical" alt="wyattz666's GitHub stats" />
   </a>
 </p>

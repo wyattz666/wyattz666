@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wyattz666&style=flat-square&color=blue" alt="visitors" />
-  <img src="https://img.shields.io/badge/university-ou-red?style=flat-square" alt="university" />
+  <img src="https://komarev.com/ghpvc/?username=wyattz666&style=flat-square&color=red" alt="visitors" />
+  <img src="https://img.shields.io/badge/university-ou-blue?style=flat-square" alt="university" />
   <img src="https://img.shields.io/badge/hobby-watch%20movie-green?style=flat-square" alt="hobby" />
   <a href="https://github.com/wyattz666">
     <img src="https://img.shields.io/github/followers/wyattz666?label=Follow&style=social" alt="Follow" />

@@ -3,6 +3,14 @@
 </div>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Wyatt;Full-stack+Developer;AI+Engineer" alt="Typing SVG" />
 </div>
 
@@ -61,5 +69,13 @@
   </a>
   <a href="mailto:dev.tranthienlong6th1@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/wyattz666">
+    <img src="https://streak-stats.demolab.com?user=wyattz666&theme=radical" alt="wyattz666's GitHub Streak stats" />
   </a>
 </p>

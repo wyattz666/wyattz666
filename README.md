@@ -60,6 +60,6 @@
 
 <p align="center">
   <a href="https://github.com/wyattz666">
-    <img src="https://github-readme-stats.vercel.app/api?username=wyattz666&show_icons=true&theme=radical" alt="wyattz666's GitHub stats" />
+    <img src="https://streak-stats.demolab.com?user=wyattz666&theme=radical" alt="wyattz666's GitHub Streak stats" />
   </a>
 </p>

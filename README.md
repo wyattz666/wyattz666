@@ -79,3 +79,8 @@
     <img src="https://streak-stats.demolab.com?user=wyattz666&theme=radical" alt="wyattz666's GitHub Streak stats" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wyattz666&theme=radical&row=2&column=6&margin-w=15&margin-h=15" alt="wyattz666's Trophies" />
+  </a>
+</p>

@@ -1,11 +1,14 @@
-<h1 align="center">Wyatt</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Wyatt+👋;Fullstack+Developer+💻;Web3+Builder+🚀" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <b>Fullstack Developer & Web3 Builder & Freelancer</b>
-</p>
-
-<p align="center">
-  Passionate about building creative and innovative projects that make a difference. I love turning crazy ideas into reality through code.
+  <em>✨ Passionate about building creative and innovative projects that make a difference. ✨<br>
+  💡 I love turning crazy ideas into reality through code. 💡</em>
 </p>
 
 <p align="center">
@@ -20,29 +23,37 @@
   </a>
 </p>
 
-<h4 align="center">I code with</h4>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<h3 align="center">🔥 I code with</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,vscode,swift,cpp,nextjs,mongo,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,vscode,swift,cpp,nextjs,mongo,firebase&perline=6" />
   </a>
 </p>
 
-<h4 align="center">I'm also familiar with</h4>
+<h3 align="center">🌱 I'm also familiar with</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cloudflare,gcp,apple,windows,supabase,sublime,pycharm,ps,pr,powershell,npm,notion" />
+    <img src="https://skillicons.dev/icons?i=linux,cloudflare,gcp,apple,windows,supabase,sublime,pycharm,ps,pr,powershell,npm,notion&perline=7" />
   </a>
 </p>
 
-<h4 align="center">You can find me on</h4>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<h3 align="center">📫 You can find me on</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/wyatt">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#">
+  <a href="https://discord.com/users/563954494711267339">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://t.me/wyatt2222">

@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Wyatt;Full-stack+Developer;AI+Engineer" alt="Typing SVG" />

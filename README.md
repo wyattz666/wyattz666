@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg?v=2">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg?v=3">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg?v=3">
   </picture>
 </div>
 
@@ -16,6 +16,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef202-4287-4379-b112-6320d3023e9e" width="120" />
   <br/>
   <em>✨ Passionate about building creative and innovative projects that make a difference. ✨<br>
   💡 I love turning crazy ideas into reality through code. 💡</em>
@@ -73,3 +74,13 @@
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output-pacman/pacman-contribution-graph-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output-pacman/pacman-contribution-graph.svg?v=3">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/wyattz666/wyattz666/output-pacman/pacman-contribution-graph.svg?v=3">
+  </picture>
+</div>

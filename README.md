@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wyattz666&style=flat-square&color=blue" alt="visitors" />
   <img src="https://img.shields.io/badge/university-ou-red?style=flat-square" alt="university" />
-  <img src="https://img.shields.io/badge/hobby-japanese%20culture-green?style=flat-square" alt="hobby" />
+  <img src="https://img.shields.io/badge/hobby-xem%20phim-green?style=flat-square" alt="hobby" />
   <a href="https://github.com/wyattz666">
     <img src="https://img.shields.io/github/followers/wyattz666?label=Follow&style=social" alt="Follow" />
   </a>
@@ -45,7 +45,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://t.me/wyatt">
+  <a href="https://t.me/wyatt2222">
     <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.facebook.com/sky.dr4g0n">

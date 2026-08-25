@@ -15,6 +15,8 @@
 </div>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif" width="120" />
+  <br/>
   <em>✨ Passionate about building creative and innovative projects that make a difference. ✨<br>
   💡 I love turning crazy ideas into reality through code. 💡</em>
 </p>
@@ -80,4 +82,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/pacman-contribution-graph.svg?v=1">
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/wyattz666/wyattz666/output/pacman-contribution-graph.svg?v=1">
   </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" />
 </div>

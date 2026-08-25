@@ -1,4 +1,12 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg?v=1">
+  </picture>
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
@@ -63,16 +71,6 @@
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wyattz666/wyattz666/output/github-contribution-grid-snake.svg?v=1">
-  </picture>
-</div>
 
 <br />
 

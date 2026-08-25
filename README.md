@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Wyatt;Fullstack+Developer;Web3+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Wyatt;Full-stack+Developer;AI+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -50,9 +50,6 @@
 <h3 align="center">📫 You can find me on</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/wyatt">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://discord.com/users/563954494711267339">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>

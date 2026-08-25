@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wyattz666&style=flat-square&color=blue" alt="visitors" />
   <img src="https://img.shields.io/badge/university-ou-red?style=flat-square" alt="university" />
-  <img src="https://img.shields.io/badge/hobby-xem%20phim-green?style=flat-square" alt="hobby" />
+  <img src="https://img.shields.io/badge/hobby-watch%20movie-green?style=flat-square" alt="hobby" />
   <a href="https://github.com/wyattz666">
     <img src="https://img.shields.io/github/followers/wyattz666?label=Follow&style=social" alt="Follow" />
   </a>
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,tailwind,postgres,mysql,mongo,redis" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite" />
   </a>
 </p>
 

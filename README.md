@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,ansible,terraform,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=linux,cloudflare,gcp,apple,windows" />
   </a>
 </p>
 

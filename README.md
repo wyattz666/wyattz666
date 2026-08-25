@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,vscode,swift,cpp,nextjs,mongo,firebase" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cloudflare,gcp,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=linux,cloudflare,gcp,apple,windows,supabase,sublime,pycharm,ps,pr,powershell,npm,notion" />
   </a>
 </p>
 
